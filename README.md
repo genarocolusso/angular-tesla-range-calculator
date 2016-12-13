@@ -1,4 +1,10 @@
 # Tesla Battery Range Calculator in Angular 2
+# Study made by Todd Motto
+
+###  Use
+
+npm install
+ng serve
 
 <a href="https://ultimateangular.com" target="_blank"><img src="https://toddmotto.com/img/ua.png"></a>
 
